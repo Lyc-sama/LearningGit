@@ -1,0 +1,14 @@
+mkdir <filename> 创建文件夹
+git init 初始化git生成git仓库
+git remote add origin git@github.com:Lyc-sama/LearningGit.git 连接到远程仓库
+git add <filename>添文件到暂存区  
+git add .加入所有文件到暂存区
+git status 查看git状态(缓存区与本地文件的对比)
+git commite -m 'message'提交文件到本地仓库
+git log 查看commit的日志
+
+
+
+
+
+git reset <filename>将尚没有commite之前加入到暂存区的文件重新拉回
