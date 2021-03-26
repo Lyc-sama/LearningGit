@@ -19,9 +19,5 @@ git reset <filename>将尚没有commite之前加入到暂存区的文件重新�
 
 git clone xxxxxxx  
 
+hdjcdsmdkjfhdnsm,adfngmd,
 
-
-dddddddd
-
-
-sssssssss
