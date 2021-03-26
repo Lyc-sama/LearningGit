@@ -20,4 +20,5 @@ git reset <filename>将尚没有commite之前加入到暂存区的文件重新�
 git clone xxxxxxx  
 
 hdjcdsmdkjfhdnsm,adfngmd,
-嘻嘻嘻啊哈哈哈哈哈
+嘻嘻嘻啊哈哈哈哈哈dddddkwmcdklsml
+漫长的生命充满可千万两名乘客来往车辆看
