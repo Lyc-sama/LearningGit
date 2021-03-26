@@ -1,23 +1,33 @@
 mkdir <filename> 创建文件夹
 git init 初始化git生成git仓库
 git remote add origin git@github.com:Lyc-sama/LearningGit.git 连接到远程仓库
+git clone xxxxxxx  clone整个仓库
 git add <filename>添文件到暂存区  
 git add .加入所有文件到暂存区
 git status 查看git状态(缓存区与本地文件的对比)
 git commite -m 'message'提交文件到本地仓库
 git log 查看commit的日志
+git reflog 查看所有的操作记录
 
 
 
 
 
 git reset <filename>将尚没有commite之前加入到暂存区的文件重新拉回
+git reset --hard <commit ID> 回退到之前commit的版本，hard的意思是不保存所有变更
+
+
+合作的部分：
+git checkout -b <name> <template> 创建新的本地分支，并切换到新的这个本地分支
+git checkout <branchname> 切换到本地分支
+git checkout origin <branchname> 切换到远程分支，本地无这个分支
+git branch 查看本地当前分支
+git merge <branchname> 合并分支，解决冲突
+
+git push --set-upstream origin <branchname> 将在本地的分支上传到远程仓库，只要做一次，以后直接push
+git fetch 拉取远程仓库信息
 
 
 
 
-
-git clone xxxxxxx  
-
-hdjcdsmdkjfhdnsm,adfngmd,
 
