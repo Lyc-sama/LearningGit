@@ -27,12 +27,10 @@ git merge <branchname> 合并分支，解决冲突
 git push --set-upstream origin <branchname> 将在本地的分支上传到远程仓库，只要做一次，以后直接push
 git fetch 拉取远程仓库信息
 
-水水水水水水水
 
-是当初你什么，阿萨
+git branch -d <branchname>  删除本地分支
+git push origin --delete <branchname> 删除已经合并的远端分支
 
 
-hdjcdsmdkjfhdnsm,adfngmd,
-嘻嘻嘻啊哈哈哈哈哈dddddkwmcdklsml
-漫长的生命充满可千万两名乘客来往车辆看
+
 
